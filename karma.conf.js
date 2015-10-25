@@ -23,9 +23,6 @@ module.exports = function(config) {
         "npm:*": "jspm_packages/npm/*"
       },
     },
-    // proxies: {
-    //   '/base': '/base/src'
-    // },
     browsers: ['PhantomJS'],
     reporters: ['coverage', 'progress'],
     colors: true,
