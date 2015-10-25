@@ -1,0 +1,15 @@
+*.swp
+node_modules
+jspm_packages
+bower_components
+dist
+ngDocs
+.DS_Store
+.tmp
+gulpfile.tmp*
+.svn
+coverage
+.settings
+.idea
+.log
+*.log
